@@ -19,7 +19,7 @@
       },
       "predictiveBackGestureEnabled": false,
       "package": "sv.edu.udb.mm230272",
-      "googleServicesFile":"./android/app/google-services.json"
+      "googleServicesFile":"./google-services.json"
     },
     "web": {
       "output": "static",
